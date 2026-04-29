@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+jupyter
+notebook
+ipykernel
+yfinance
+scikit-learn
+statsmodels
+plotly
+ta
+backtesting
+openpyxl
+requests
+python-dotenv

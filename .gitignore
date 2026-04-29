@@ -1,0 +1,22 @@
+# Entorno virtual de Python
+.venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Variables privadas y claves API
+.env
+
+# Datos de mercado y archivos pesados
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
